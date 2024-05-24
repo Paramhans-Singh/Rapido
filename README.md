@@ -1,4 +1,4 @@
-# 🛵 Rapido Clone README 🚀
+# 🛵 Rapido Clone 🚀
 
 ## Overview
 This project is a clone of Rapido, a bike taxi booking application. It provides functionalities such as ride booking. Built with modern web technologies, it offers a seamless experience for both riders and drivers.

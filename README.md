@@ -8,6 +8,11 @@ This project is a clone of Rapido, a bike taxi booking application. It provides 
 - **Driver Management**: Onboard and manage drivers with their profiles and availability.
 - **Emergency Assistance**: Access emergency assistance during rides.
 
+
+## Rapido Website Preview 
+https://github.com/Paramhans-Singh/Rapido-Clone/assets/101575816/3bdb90b4-0bd8-485d-96d0-34fc30d11405
+
+
 ## Technologies Used
 - **Frontend**: React.js, CSS, HTML
 - **Real-time Tracking**: Socket.IO
